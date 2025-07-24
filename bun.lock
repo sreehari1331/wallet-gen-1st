@@ -2,7 +2,7 @@
   "lockfileVersion": 1,
   "workspaces": {
     "": {
-      "name": "octra-wallet-generator",
+      "name": "Octra-Wallet-Generator",
       "dependencies": {
         "bip39": "^3.1.0",
         "tweetnacl": "^1.0.3",
